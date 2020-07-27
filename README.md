@@ -42,9 +42,9 @@ Tabela de conteúdos
    * [Funcionalidades](#-funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o App pelo emulador AVD Android Studio](#user-content--rodando-o-backend-servidor)
+     * [Rodando o App pelo emulador AVD Android Studio](#user-content--rodando-o-app-pelo-emulador-avd-android-studio)
    * [Tecnologias](#-tecnologias)
-     * [WebSite](#user-content-website--react----typescript)
+     * [Mobile](#user-content-website--react----typescript)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -52,8 +52,8 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Simples aplicação React para testar a integração do frontend com o backent utilizando o Axios, e como demonstração
-utilizando os verbos: POST, DELETE, para manipular os dados da lista que é capturada na aplicação backend em NodeJS.
+Simples aplicação React-native para testar a integração do mobile com o backent utilizando o Axios, e como demonstração
+utilizando os verbos: GET, POST, para manipular os dados da lista que é capturada na aplicação backend em NodeJS.
 
 Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketseat](https://rocketseat.com.br/gostack).
 
@@ -61,9 +61,9 @@ Projeto desenvolvido durante o **Bootcamp GoStack 11** oferecido pela [Rocketsea
 
 ## ⚙️ Funcionalidades
 
-- [x] Pode manipular repositórios em uma lista com:
+- [x] Pode exibir repositórios em uma lista com:
+  - [x] GET
   - [x] POST
-  - [x] DELETE
 
 ---
 
@@ -84,7 +84,8 @@ para clonar e utilizar o projeto backend que faz parte deste desafio.
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 - [(Windows, Linux) Android Studio](https://developer.android.com/studio) ou [(iOS) Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
-- [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
 - Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o App pelo emulador AVD Android Studio
@@ -116,7 +117,7 @@ $ yarn test
 
 As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/))
+#### **Mobile**  ([React](https://reactjs.org/))
 
 -   **[React Dom](https://www.npmjs.com/package/react-dom)**
 -   **[React Scripts](https://www.npmjs.com/package/react-scripts)**
