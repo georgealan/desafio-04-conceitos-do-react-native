@@ -76,6 +76,7 @@ para clonar e utilizar o projeto backend que faz parte deste desafio.
 2. Mobile (este projeto aqui)
 
 💡O Mobile precisa que o backend esteja sendo executado para funcionar.
+
 💡Para rodar os testes desligar o servidor o backend.
 
 ### Pré-requisitos
