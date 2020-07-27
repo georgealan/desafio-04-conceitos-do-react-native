@@ -75,12 +75,13 @@ Vá até este <a href="https://github.com/georgealan/desafio-02-conceitos-do-nod
 para clonar e utilizar o projeto backend que faz parte deste desafio.
 2. Mobile (este projeto aqui)
 
-💡O Mobile precisa que o Backend esteja sendo executado para funcionar.
+💡O Mobile precisa que o backend esteja sendo executado para funcionar.
+💡Para rodar os testes desligar o servidor o backend.
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[(Windows, Linux) Android Studio](https://developer.android.com/studio), [(iOS) Xcode](https://apps.apple.com/br/app/xcode/id497799835?mt=12), [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o App pelo emulador AVD Android Studio
