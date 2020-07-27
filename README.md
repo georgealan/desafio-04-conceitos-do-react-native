@@ -103,6 +103,8 @@ $ yarn
 
 # Para começar a utilizar a aplicação abra um prompt de comando no diretório do projeto, fora do VSCode e inicie o projeto com o comando
 $ npx react-native run-android
+# ou
+$ yarn android
 
 # O comando acima vai gerar todo o processo de criação do build do app no emulador do Android Studio
 
@@ -117,15 +119,15 @@ $ yarn test
 
 As seguintes ferramentas estão sendo utilizadas na construção do projeto:
 
-#### **Mobile**  ([React](https://reactjs.org/))
+#### **Mobile**  ([React Native](https://reactnative.dev/))
 
--   **[React Dom](https://www.npmjs.com/package/react-dom)**
--   **[React Scripts](https://www.npmjs.com/package/react-scripts)**
+-   **[React](https://www.npmjs.com/package/react)**
+-   **[React Native](https://www.npmjs.com/package/react-native)**
 -   **[Axios](https://github.com/axios/axios)**
 -   **[Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)**
--   **[Jest Dom](https://github.com/testing-library/jest-dom)**
+-   **[Jest](https://github.com/testing-library/jest-dom)**
 -   **[@babel](https://babeljs.io/docs/en/babel-preset-react)**
--   **[Webpack](https://webpack.js.org/)**
+-   **[Eslint](https://www.npmjs.com/package/eslint)**
 
 > Veja o arquivo  [package.json](https://github.com/georgealan/desafio-04-conceitos-do-react-native/blob/master/package.json)
 
