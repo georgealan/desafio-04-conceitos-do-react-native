@@ -10,9 +10,11 @@ import {
   TouchableOpacity,
 } from "react-native";
 
+import api from './services/api';
+
 export default function App() {
   async function handleLikeRepository(id) {
-    // Implement "Like Repository" functionality
+    
   }
 
   return (
